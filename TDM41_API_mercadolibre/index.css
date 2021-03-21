@@ -1,0 +1,30 @@
+﻿body {
+    background-color: darkcyan;
+}
+
+
+.tablita {
+    width: 100%;
+    background-color: #f1f1c1;
+    border: 1px solid black;
+}
+
+.cuerpo {
+    flex-direction: column;
+    padding: 20px;
+    max-width: 1080px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 50px;
+    margin-top: 50px;
+}
+
+.estilop1 {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+    background-color: #cdcdcd;
+    padding: 10px;
+    margin: 10px;
+    text-align: center;
+}
